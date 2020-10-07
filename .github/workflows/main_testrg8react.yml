@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'testrg8react'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8c0789df43a64508872b2f5db26eb1be }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a0246988bb144599aba3ff3baf0a512b }}
         package: .
