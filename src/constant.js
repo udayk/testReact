@@ -1,3 +1,3 @@
 module.exports = Object.freeze({
-    API_HOST_ADDRESS : 'http://localhost:8080',
+    API_HOST_ADDRESS : 'https://testrg12rr.azurewebsites.net:8080',
 });
